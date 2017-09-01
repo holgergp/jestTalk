@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1>
+    Hello World
+  </h1>
+  <ul>
+    <li>
+      <div
+        className="Text"
+      >
+        1
+      </div>
+    </li>
+    <li>
+      <div
+        className="Text"
+      >
+        2
+      </div>
+    </li>
+    <li>
+      <div
+        className="Text"
+      >
+        3
+      </div>
+    </li>
+    <li>
+      <div
+        className="Text"
+      >
+        4
+      </div>
+    </li>
+  </ul>
+</div>
+`;
