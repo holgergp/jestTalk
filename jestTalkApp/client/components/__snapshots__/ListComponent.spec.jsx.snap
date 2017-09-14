@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListComponent renders 1`] = `
+<ul>
+  <li>
+    <div
+      className="Text"
+    >
+      1
+    </div>
+  </li>
+  <li>
+    <div
+      className="Text"
+    >
+      2
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`ListComponent shallow renders 1`] = `
+<ul>
+  <li>
+    <TextComponent
+      value="1"
+    />
+  </li>
+  <li>
+    <TextComponent
+      value="2"
+    />
+  </li>
+</ul>
+`;

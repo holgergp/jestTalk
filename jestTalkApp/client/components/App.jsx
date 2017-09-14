@@ -1,5 +1,5 @@
 import React from 'react';
-import List from './ListComponent';
+import List from './ListComponent.jsx';
 const App = class App extends React.Component {
   render() {
     const myArray = ['1', '2', '3', '4'];

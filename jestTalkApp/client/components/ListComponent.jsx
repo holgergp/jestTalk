@@ -1,22 +1,21 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Text from './TextComponent';
+import Text from './TextComponent.jsx';
+import getPosts from '../service/httpService.js';
 
 const List = class ListComponent extends Component {
   render() {
     const { values } = this.props;
-    console.log('values', values);
-    const lis = values.map(elem =>
+    const lis = values.map(elem => (
       <li key={elem.toString()}>
         <Text value={elem} />
       </li>
-    );
-    console.log('lis', lis);
-    return (
-      <ul>
-        {lis}
-      </ul>
-    );
+    ));
+    return <ul>{lis}</ul>;
+  }
+  componentDidMount() {
+    const posts = getPosts();
+    console.log('getPosts', posts);
   }
 };
 

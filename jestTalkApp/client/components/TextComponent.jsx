@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-const TextBlah = class TextComponent extends Component {
+const Text = class TextComponent extends Component {
   render() {
-    console.log(this.props);
-
     const { value } = this.props;
     return (
       <div className="Text">
@@ -17,4 +15,4 @@ Text.propTypes = {
   value: PropTypes.string.isRequired
 };
 
-export default TextBlah;
+export default Text;
