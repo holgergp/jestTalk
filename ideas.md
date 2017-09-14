@@ -1,0 +1,18 @@
+- Unit Tests
+- Unit Tests in JS
+- Status Quo Pre Jest
+- Was muss man machen um, JS Tests ans rennen zu kriegen
+    vgl. Java
+- Enter Jest
+    - Batteries included
+    - Installation
+- Intro
+  - Sieht aus wie Jasmine
+- Jest mit React
+- Mocking
+- Snapshottests
+- IDE Support
+- Async?
+- Jest mit JQuery
+- Sieht gut aus
+  - Schöne Ausgaben
