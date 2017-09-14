@@ -1,6 +1,44 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ListComponent renders 1`] = `
+exports[`ListComponent renders using mock fn 1`] = `
+<ul>
+  <li>
+    <div
+      className="Text"
+    >
+      1
+    </div>
+  </li>
+  <li>
+    <div
+      className="Text"
+    >
+      2
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`ListComponent renders using module mock 1`] = `
+<ul>
+  <li>
+    <div
+      className="Text"
+    >
+      1
+    </div>
+  </li>
+  <li>
+    <div
+      className="Text"
+    >
+      2
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`ListComponent renders using module stub 1`] = `
 <ul>
   <li>
     <div
