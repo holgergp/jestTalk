@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Text from './TextComponent.jsx';
-import getPosts from '../service/httpService.js';
+import {getPosts} from '../service/httpService.js';
 
 const List = class ListComponent extends Component {
   render() {
