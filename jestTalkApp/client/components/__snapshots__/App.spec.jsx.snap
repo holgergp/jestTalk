@@ -16,28 +16,21 @@ exports[`App renders 1`] = `
       <div
         className="Text"
       >
-        1
+        COMPLICATED
       </div>
     </li>
     <li>
       <div
         className="Text"
       >
-        2
+        JSON
       </div>
     </li>
     <li>
       <div
         className="Text"
       >
-        3
-      </div>
-    </li>
-    <li>
-      <div
-        className="Text"
-      >
-        4
+        RESPONSE
       </div>
     </li>
   </ul>
