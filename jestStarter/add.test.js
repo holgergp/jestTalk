@@ -1,4 +1,4 @@
-import {add} from './add';
+import {add, multiply} from './add';
 
 describe('add' ,() => {
     it('should compute the sum', () => {
