@@ -1,5 +1,5 @@
 import React from 'react';
-import Text from './/TextComponent'
+import Text from './/TextComponent';
 import renderer from 'react-test-renderer';
 
 
