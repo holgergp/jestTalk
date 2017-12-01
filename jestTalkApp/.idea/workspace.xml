@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d766e47-0015-469a-b5e8-c2ec2d7ee3b9" name="Default" comment="Prettier">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/client/components/ListComponent.spec.jsx" afterPath="$PROJECT_DIR$/client/components/ListComponent.spec.jsx" />
-    </list>
+    <list default="true" id="3d766e47-0015-469a-b5e8-c2ec2d7ee3b9" name="Default" comment="Prettier" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListComponent.spec.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListComponent.spec.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/ListComponent.spec.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
@@ -62,6 +58,16 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,16 +121,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
               <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add.test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jestStarter/add.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -210,30 +206,6 @@
             <path>
               <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="__snapshots__" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,7 +387,7 @@
       <workItem from="1507903652372" duration="4000" />
       <workItem from="1512135418999" duration="580000" />
       <workItem from="1512146531046" duration="2519000" />
-      <workItem from="1512158677733" duration="638000" />
+      <workItem from="1512158677733" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="endpoint bound to component">
       <created>1506095418009</created>
@@ -458,7 +430,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7263000" />
+    <option name="totallyTimeSpent" value="7328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -781,14 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/components/FirstTest.spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -952,6 +916,14 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
