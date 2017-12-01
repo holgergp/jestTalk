@@ -1,6 +1,6 @@
-import {getPosts} from '../service/httpService';
+import { getPosts } from "../service/httpService";
 
-export let doSomethingWithRemoteData = (somePar) => {
-    const postData  = getPosts();
-    return postData.posts.map(it =>it.toUpperCase());
+export let doSomethingWithRemoteData = somePar => {
+  const postData = getPosts();
+  return postData.posts.map(it => it.toUpperCase());
 };

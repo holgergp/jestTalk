@@ -1,9 +1,9 @@
-import { doSomethingWithRemoteData } from './serviceUser.js';
+import { doSomethingWithRemoteData } from "./serviceUser.js";
 
-jest.mock('./httpService', () => {
+jest.mock("./httpService", () => {
   const getPostMock = () => {
     return {
-      posts: ['fake', 'data']
+      posts: ["fake", "data"]
     };
   };
   return {
@@ -11,9 +11,9 @@ jest.mock('./httpService', () => {
   };
 });
 
-describe('serviceUser shoukd', () => {
-  it('talk to backendService', () => {
+describe("serviceUser shoukd", () => {
+  it("talk to backendService", () => {
     const data = doSomethingWithRemoteData();
-    expect(data).toEqual(['FAKE', 'DATA']);
+    expect(data).toEqual(["FAKE", "DATA"]);
   });
 });
