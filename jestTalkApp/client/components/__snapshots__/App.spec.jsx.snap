@@ -36,3 +36,49 @@ exports[`App renders 1`] = `
   </ul>
 </div>
 `;
+
+exports[`App renders with defined data 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1>
+    Hello World
+  </h1>
+  <ul>
+    <li>
+      <div
+        className="Text"
+      >
+        test
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`App renders with defined return function 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1>
+    Hello World
+  </h1>
+  <ul>
+    <li>
+      <div
+        className="Text"
+      >
+        mockImplementation
+      </div>
+    </li>
+  </ul>
+</div>
+`;

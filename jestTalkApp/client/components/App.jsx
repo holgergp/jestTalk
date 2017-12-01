@@ -23,7 +23,8 @@ const App = class App extends React.Component {
     }
 
     componentDidMount() {
-        const posts = doSomethingWithRemoteData() || [];
+        const posts = doSomethingWithRemoteData('param') || [];
+        doSomethingWithRemoteData('param') || []
         this.setState({posts});
     }
 
