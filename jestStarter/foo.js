@@ -1,3 +1,3 @@
 export const stringProducer = (a) => {
-    return "yourString" + a;
-}
+    return "myString" + a;
+};
