@@ -1,4 +1,4 @@
-xdescribe('surrounding describe should', () => {
+describe.skip('surrounding describe should', () => {
         xdescribe('this describe should', () => {
             xit('not be executed', () => {
                 expect(true).toBe(true);
@@ -6,7 +6,7 @@ xdescribe('surrounding describe should', () => {
         });
 
         describe('this describe should', () => {
-            it('be executed', () => {
+            fit('be executed', () => {
                 expect(true).toBe(true);
             });
             it('not  be executed', () => {
@@ -14,8 +14,8 @@ xdescribe('surrounding describe should', () => {
             });
         });
 
-        describe('this describe should', () => {
-            it('be executed', () => {
+        describe.only('this describe should', () => {
+            it.only('be executed', () => {
                 expect(true).toBe(true);
             });
             it.skip('not  be executed', () => {
