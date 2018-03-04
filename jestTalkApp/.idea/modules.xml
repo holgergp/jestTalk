@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../jestStarter/jestStarter.iml" filepath="$PROJECT_DIR$/../jestStarter/jestStarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/jestTalkApp.iml" filepath="$PROJECT_DIR$/jestTalkApp.iml" />
     </modules>
   </component>
