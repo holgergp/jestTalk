@@ -1,16 +1,16 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`ListComponent shallow renders 1`] = `
-<ul>
-  <li>
+<dl>
+  <dt>
     <TextComponent
       value="1"
     />
-  </li>
-  <li>
+  </dt>
+  <dt>
     <TextComponent
       value="2"
     />
-  </li>
-</ul>
+  </dt>
+</dl>
 `;

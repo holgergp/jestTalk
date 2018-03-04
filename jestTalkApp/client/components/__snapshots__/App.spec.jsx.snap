@@ -11,29 +11,29 @@ exports[`App renders 1`] = `
   <h1>
     Hello World
   </h1>
-  <ul>
-    <li>
+  <dl>
+    <dt>
       <div
         className="Text"
       >
         COMPLICATED
       </div>
-    </li>
-    <li>
+    </dt>
+    <dt>
       <div
         className="Text"
       >
         JSON
       </div>
-    </li>
-    <li>
+    </dt>
+    <dt>
       <div
         className="Text"
       >
         RESPONSE
       </div>
-    </li>
-  </ul>
+    </dt>
+  </dl>
 </div>
 `;
 
@@ -48,15 +48,15 @@ exports[`App renders with defined data 1`] = `
   <h1>
     Hello World
   </h1>
-  <ul>
-    <li>
+  <dl>
+    <dt>
       <div
         className="Text"
       >
         test
       </div>
-    </li>
-  </ul>
+    </dt>
+  </dl>
 </div>
 `;
 
@@ -71,14 +71,14 @@ exports[`App renders with defined return function 1`] = `
   <h1>
     Hello World
   </h1>
-  <ul>
-    <li>
+  <dl>
+    <dt>
       <div
         className="Text"
       >
         mockImplementation
       </div>
-    </li>
-  </ul>
+    </dt>
+  </dl>
 </div>
 `;

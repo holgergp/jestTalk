@@ -6,11 +6,11 @@ const List = class ListComponent extends Component {
   render() {
     const { values } = this.props;
     const lis = values.map(elem => (
-      <li key={elem.toString()}>
+      <dt key={elem.toString()}>
         <Text value={elem} />
-      </li>
+      </dt>
     ));
-    return <ul>{lis}</ul>;
+    return <dl>{lis}</dl>;
   }
 };
 
