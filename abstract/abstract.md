@@ -6,14 +6,14 @@ Das bißchen Frontend testet sich doch von selbst
 Jest - Frontend testing done right
 angenehme Art das Frontend zu testen.
 
-Jest - Frontend testing done right
+Frontend testing done right with Jest
 
 Abstract
 
 Mal ganz ehrlich: Testen im Frontend hat noch nie viel Spaß gemacht. 
 In meinem Talk möchte ich mit Jest eine Testbibliothek vorstellen, die genau das ändern kann.
 Jest ist ohne viel Konfiguration direkt einsetzbar und bringt alles mit was man von einer Testbibliothek erwartet (und noch mehr). 
-An vielen praktischen Beispielen möchte ich meine Lieblingsfeatures wie z.B. Snapshot Tests, Mocking oder das tolle CLI erläutern und zeigen, dass Testen im Frontend durchaus Spaß machen kann!
+An vielen praktischen Beispielen möchte ich meine Lieblingsfeatures wie z.B. Snapshot Tests, Mocking oder das tolle CLI erläutern und zeigen, dass Testen im Frontend durchaus Spaß machen kann! Eine Ausrede weniger um auf das Testen im Frontend zu verzichten!
 
 Vorkenntnisse: 
 
@@ -21,11 +21,16 @@ Grundlegende JavaScript-Kenntnisse
 
 Lernziele:
 
-Die Zuhörer sollen einen Überblick über die Funktionsweise und die Features von Jest bekommen und in die Lage versetzt werden, Jest direkt ausprobieren und bewerten zu können.
+Die Zuhörer sollen einen Überblick über die Funktionsweise und die Eisnatzbereiche von Jest bekommen und in die Lage versetzt werden, Jest direkt ausprobieren und bewerten zu können.
+
+Die Zuhörer sollen einen Überblick über die Funktionsweise und die Einsatzbereiche von Jest bekommen und lernen wie man mit Hilfe von Jest sein Frontend gut testen kann.
 
 
 
 
+
+Testen im Frontend ist wichtig
+Best practices
 
 Abstract:
 
@@ -82,7 +87,7 @@ der Blindtext. Genau zu diesem Zwecke erschaffen, immer im Schatten meines groß
 
 Bio
 
-Software Entwickler/Podcaster
+Seit über 10 Jahren passionierter Software Crafter. Von Anfang an dabei die Faszination für das Web. In seiner Freizeit podcastet er unter http://autoweird.fm.
 
 
 
@@ -92,3 +97,5 @@ Rocking your Frontend TDD Style
 
 - Best practices für Frontend Tests
 - Advanced frontend testing concepts
+
+
