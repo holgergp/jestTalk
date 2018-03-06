@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d766e47-0015-469a-b5e8-c2ec2d7ee3b9" name="Default" comment="Prettier">
-      <change beforePath="$PROJECT_DIR$/../abstract/abstract.md" afterPath="$PROJECT_DIR$/../abstract/abstract.md" />
-      <change beforePath="$PROJECT_DIR$/../jestTalk.key" afterPath="$PROJECT_DIR$/../jestTalk.key" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,30 +18,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TextComponent.spec.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/TextComponent.spec.jsx">
+      <file leaf-file-name="serviceUser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/service/serviceUser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="abstract.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../abstract/abstract.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1242">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="32">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="asymetricExpectations.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/service/asymetricExpectations.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newExpectations.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/service/newExpectations.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="71" lean-forward="false" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstract.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../abstract/abstract.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -56,24 +58,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="serviceUser.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/service/serviceUser.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2000">
-              <caret line="125" column="55" lean-forward="false" selection-start-line="125" selection-start-column="55" selection-end-line="125" selection-end-column="55" />
+            <state relative-caret-position="240">
+              <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="42" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -81,38 +71,38 @@
       <file leaf-file-name="App.spec.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/App.spec.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="75">
               <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstTest.spec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/FirstTest.spec.js">
+      <file leaf-file-name="skippingAndForcing.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/service/skippingAndForcing.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListComponent.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/ListComponent.jsx">
+      <file leaf-file-name="customMatchers.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/service/customMatchers.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="384">
+              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/index.html">
+      <file leaf-file-name="App.spec.jsx.snap" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/__snapshots__/App.spec.jsx.snap">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="94" lean-forward="false" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+            <state relative-caret-position="-934">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,6 +156,9 @@
         <option value="$PROJECT_DIR$/client/index.html" />
         <option value="$PROJECT_DIR$/client/components/ListComponent.jsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/client/service/customMatchers.js" />
+        <option value="$PROJECT_DIR$/client/service/asymetricExpectations.spec.js" />
+        <option value="$PROJECT_DIR$/client/service/newExpectations.spec.js" />
       </list>
     </option>
   </component>
@@ -210,6 +203,30 @@
               <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="__snapshots__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jestTalkApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jestTalkApp" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -228,6 +245,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="js.last.introduce.type" value="CONST" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -246,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.skippingAndForcing.spec.js">
+  <component name="RunManager" selected="Jest.Our array should.contain someProperties">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -303,39 +321,59 @@
       <envs />
       <scope-kind value="ALL" />
     </configuration>
-    <configuration name="TextComponent.spec.jsx" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+    <configuration name="Item should" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/client/service/customMatchers.js" />
+      <test-names>
+        <test-name value="Item should" />
+      </test-names>
+    </configuration>
+    <configuration name="Our array should.contain someProperties" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/client/service/newExpectations.spec.js" />
+      <test-names>
+        <test-name value="Our array should" />
+        <test-name value="contain someProperties" />
+      </test-names>
+    </configuration>
+    <configuration name="Our object should" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/client/service/asymetricExpectations.spec.js" />
+      <test-names>
+        <test-name value="Our object should" />
+      </test-names>
+    </configuration>
+    <configuration name="customMatchers.spec.js" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/client/components/TextComponent.spec.jsx" />
+      <test-file value="$PROJECT_DIR$/client/service/customMatchers.spec.js" />
     </configuration>
-    <configuration name="add.test.js" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <working-dir value="$PROJECT_DIR$/../jestStarter" />
-      <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/../jestStarter/add.test.js" />
-    </configuration>
-    <configuration name="httpServiceWithPromises.spec.js" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+    <configuration name="something" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/client/service/httpServiceWithPromises.spec.js" />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/client/service/asymetricExpectations.spec.js" />
+      <test-names>
+        <test-name value="something" />
+      </test-names>
     </configuration>
-    <configuration name="skippingAndForcing.spec.js" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/client/service/skippingAndForcing.spec.js" />
-    </configuration>
-    <configuration name="add.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="add.js" working-dir="$PROJECT_DIR$/../jestStarter" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -379,19 +417,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Jest.AllTests jestTalkApp" />
       <item index="1" class="java.lang.String" itemvalue="Jest.AllTests jestStarter" />
-      <item index="2" class="java.lang.String" itemvalue="Jest.httpServiceWithPromises.spec.js" />
-      <item index="3" class="java.lang.String" itemvalue="Jest.TextComponent.spec.jsx" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.add.js" />
-      <item index="5" class="java.lang.String" itemvalue="Jest.add.test.js" />
-      <item index="6" class="java.lang.String" itemvalue="Jest.skippingAndForcing.spec.js" />
+      <item index="2" class="java.lang.String" itemvalue="Jest.Item should" />
+      <item index="3" class="java.lang.String" itemvalue="Jest.customMatchers.spec.js" />
+      <item index="4" class="java.lang.String" itemvalue="Jest.something" />
+      <item index="5" class="java.lang.String" itemvalue="Jest.Our object should" />
+      <item index="6" class="java.lang.String" itemvalue="Jest.Our array should.contain someProperties" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Jest.skippingAndForcing.spec.js" />
-        <item index="1" class="java.lang.String" itemvalue="Jest.add.test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.add.js" />
-        <item index="3" class="java.lang.String" itemvalue="Jest.TextComponent.spec.jsx" />
-        <item index="4" class="java.lang.String" itemvalue="Jest.httpServiceWithPromises.spec.js" />
+        <item index="0" class="java.lang.String" itemvalue="Jest.Our array should.contain someProperties" />
+        <item index="1" class="java.lang.String" itemvalue="Jest.Our object should" />
+        <item index="2" class="java.lang.String" itemvalue="Jest.something" />
+        <item index="3" class="java.lang.String" itemvalue="Jest.customMatchers.spec.js" />
+        <item index="4" class="java.lang.String" itemvalue="Jest.Item should" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +473,7 @@
       <workItem from="1512463000216" duration="232000" />
       <workItem from="1513322510537" duration="254000" />
       <workItem from="1513590429792" duration="18000" />
-      <workItem from="1520170412851" duration="2830000" />
+      <workItem from="1520170412851" duration="4875000" />
     </task>
     <task id="LOCAL-00001" summary="endpoint bound to component">
       <created>1506095418009</created>
@@ -472,30 +510,52 @@
       <option name="project" value="LOCAL" />
       <updated>1520177551043</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="remove editor settings">
+      <created>1520177600299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1520177600299</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Custom Matcher example">
+      <created>1520178683474</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1520178683474</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Some more expectation examples">
+      <created>1520179312258</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1520179312258</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Neue Version der Folien">
+      <created>1520179416941</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1520179416941</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 11m 06s.xml">
-      <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="Item_should - 2018.03.04 at 16h 50m 20s.xml">
+      <configuration name="Item should" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 12m 40s.xml">
-      <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="Our_array_should_contain_someProperties - 2018.03.04 at 16h 59m 08s.xml">
+      <configuration name="Our array should.contain someProperties" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 12m 53s.xml">
-      <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="Our_array_should_contain_someProperties - 2018.03.04 at 17h 00m 47s.xml">
+      <configuration name="Our array should.contain someProperties" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 14m 30s.xml">
-      <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="Our_object_should - 2018.03.04 at 16h 55m 37s.xml">
+      <configuration name="Our object should" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 14m 55s.xml">
-      <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 15m 13s.xml">
-      <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 15m 46s.xml">
-      <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="customMatchers_spec_js - 2018.03.04 at 16h 50m 45s.xml">
+      <configuration name="customMatchers.spec.js" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
     <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 16m 08s.xml">
       <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
@@ -506,9 +566,15 @@
     <history-entry file="skippingAndForcing_spec_js - 2017.12.04 at 18h 16m 58s.xml">
       <configuration name="skippingAndForcing.spec.js" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="something - 2018.03.04 at 16h 54m 53s.xml">
+      <configuration name="something" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="something - 2018.03.04 at 16h 55m 27s.xml">
+      <configuration name="something" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13223000" />
+    <option name="totallyTimeSpent" value="15268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,10 +591,10 @@
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.49427754" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286445" sideWeight="0.5171674" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286445" sideWeight="0.52288985" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286445" sideWeight="0.47997138" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286445" sideWeight="0.4828326" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286445" sideWeight="0.47424892" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286445" sideWeight="0.47711015" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5179028" sideWeight="0.48855507" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -567,7 +633,11 @@
     <MESSAGE value="Using minimalist css and dl" />
     <MESSAGE value="Removed jestStarter from this repo" />
     <MESSAGE value="Proper .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proper .gitignore" />
+    <MESSAGE value="remove editor settings" />
+    <MESSAGE value="Custom Matcher example" />
+    <MESSAGE value="Some more expectation examples" />
+    <MESSAGE value="Neue Version der Folien" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neue Version der Folien" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -576,29 +646,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/service/httpService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/service/serviceUser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/App.spec.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/components/ListComponent.spec.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -729,13 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/__snapshots__/App.spec.jsx.snap">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/components/__snapshots__/TextComponent.spec.jsx.snap">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -836,22 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/service/serviceUser.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/service/serviceUser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -862,42 +886,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/service/skippingAndForcing.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/TextComponent.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="94" lean-forward="false" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/service/httpService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/App.spec.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -915,7 +907,7 @@
         <state relative-caret-position="175">
           <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -936,24 +928,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/TextComponent.spec.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../abstract/abstract.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1242">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -966,6 +940,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2000">
           <caret line="125" column="55" lean-forward="false" selection-start-line="125" selection-start-column="55" selection-end-line="125" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/TextComponent.spec.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/TextComponent.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/__snapshots__/App.spec.jsx.snap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-934">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/App.spec.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/service/httpService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/service/serviceUser.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/service/skippingAndForcing.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/service/customMatchers.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/service/serviceUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/service/asymetricExpectations.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/service/newExpectations.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="71" lean-forward="false" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../abstract/abstract.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
